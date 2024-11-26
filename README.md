@@ -100,5 +100,4 @@ Please mail me at - sahilsinghgbss1@gmail.com
 Contribution is open. Create Pull-request and I'll add it to the project if it's good enough.
 #thanks you
 #done
-#sahil_singh
-#;)
+#sahil_singh.
